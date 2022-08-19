@@ -1,5 +1,12 @@
 ### Hi there 👋
+ <br> I'm Ritshidze Nemudzivhadi I am a second year student at Belgium Campus ITversity.<br>
+ <br>I like to code a lot and solve modern problems. I am not a serious person I like to joke alot<br>
+ **languages:**
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlt3h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
+ 
+ 
 <!--
 **Xlt3h/Xlt3h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
