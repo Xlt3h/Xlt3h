@@ -1,7 +1,7 @@
 ### Hi there 👋
  <br> I'm Ritshidze Nemudzivhadi I am a second year student at Belgium Campus ITversity.
  I like to code a lot and solve modern problems. I am not a serious person I like to joke alot<br>
- - 🔭 I’m currently a student ...
+ - 🔭 I’m currently a student Belgium Campus ITversity ...
 - 🌱 I’m currently learning computer science.
 - 👯 I’m looking to collaborate on data science.
 - 💬 Ask me about how to import data lol
