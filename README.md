@@ -11,7 +11,9 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlt3h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlt3h&show_icons=true&theme=gruvbox)
 
- 
+ <h1>My battleground </h1>
+ python is the gun that i use
+ https://www.codewars.com/users/recheese
  
 <!--
 **Xlt3h/Xlt3h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
