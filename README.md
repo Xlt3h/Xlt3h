@@ -12,6 +12,13 @@
  python is the gun that i use
  https://www.codewars.com/users/recheese
  
+### Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlt3h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlt3h&show_icons=true&theme=gruvbox)
 
