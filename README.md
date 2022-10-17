@@ -8,7 +8,7 @@
 - 📫 How to reach me well email me ritshidzenemu@gmail.com
 - ⚡ Fun fact: i speak alone when coding 
 <br><br>
- <h1>My battleground </h1>
+ ### My battleground 
  python is the gun that i use
  https://www.codewars.com/users/recheese
  
